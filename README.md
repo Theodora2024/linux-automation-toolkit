@@ -64,6 +64,5 @@ Monitors logs in real-time for specific error codes (HTTP 500).
 Theodora E.
 
 
-**Would you like me to help you with the final `git` commands to upload this to your GitHub repository?**
 
 
